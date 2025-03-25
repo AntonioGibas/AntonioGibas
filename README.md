@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AntonioGibas
+- 👀 I’m interested in Mainframe development and database administration
+- 🌱 I’m currently learning PL/1, COBOL and SQL 
+- 📫 How to reach me antonio.gibas6@gmail.com
